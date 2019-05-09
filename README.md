@@ -1,5 +1,8 @@
 # Frech
-Fire Rescue Evacuation Command Helmet - Department of Automation, Tsinghua University
+This repo is for the Project of Fire Rescue Evacuation Command Helmet. It assits firefighters to take more efficient rescue in the buildings on fire. It can provde 3D model, visual guidance arrow, visual enhancement based on HoloLens. 
+
+Click the image below to watch the video.
+[![Watch the video](https://drive.google.com/uc?id=1oXaByXh4W-GR61JnXoNr1DQuxN6Quix_)](https://youtu.be/D3NWHM4sGLA)
 
 ## Required Software
 * Unity 2017.1
