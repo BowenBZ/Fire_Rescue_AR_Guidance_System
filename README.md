@@ -1,4 +1,4 @@
-# Frech
+# Fire Rescue AR Guidance System
 This repo is for the Project of Fire Rescue Evacuation Command Helmet. It assits firefighters to take more efficient rescue in the buildings on fire. It can provde 3D model, visual guidance arrow, visual enhancement based on HoloLens. 
 
 Click the image below to watch the video.
